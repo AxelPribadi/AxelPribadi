@@ -1,5 +1,1 @@
-Hi
-
-I am Axel. 
-
-Look at some of my data science related projects here.
+Check out some of my data science projects
